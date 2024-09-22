@@ -66,7 +66,7 @@ a{
     display: flex;
     align-items: center;
     gap: 7em;
-    padding: 30px 12% 0;
+    padding: 100px 12% 0;
 }
 .home-content{
     max-width: 800px;
