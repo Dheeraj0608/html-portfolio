@@ -136,11 +136,11 @@ a{
 .about-content h2{
     text-align: left;
     color:white;
-    font-size: 42px;
+    font-size: 32px;
 }
 .about-content h3{
-    font-size: 62px;
-    color:white;
+    font-size: 42px;
+    color:rgb(88,27,149);
 }
 .footer{
     position: relative;
